@@ -1,0 +1,56 @@
+body
+{
+	background-image:url(../css/ind1.jpeg);
+}
+table
+{
+	font-size:30px;
+	background-color:#CCCCCC;
+}
+#footer
+{
+	background-color:#CCFF00;
+	color:#993333;
+	float:inherit;
+}
+a
+{
+	text-decoration:none;
+	color:#000000;
+	font-style:italic;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+	font-size:22px;
+	
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+input
+{
+	font-size:60px;
+	size:10px;
+}
+.messege
+{
+	font-size:40px;
+	color:#3300FF;
+	font-style:italic;
+}
+a:hover {
+  color:#FF0000 ;
+  background-color: #def ;
+}

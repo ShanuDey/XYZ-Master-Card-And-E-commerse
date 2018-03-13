@@ -1,0 +1,41 @@
+.header
+{
+	color:#66FF66;
+	margin-top:inherit;	
+}
+a
+{
+	text-decoration:none;
+	color:#000000;
+	font-style:italic;
+}
+table
+{
+	background-color:#CCCCCC;
+	color:#000000;
+	font-size:30px;
+	border-left-style:hidden;
+}
+body
+{
+	background-image:url(../css/ind1.jpeg);
+}
+input
+{
+	font-size:30px;
+	size:10px;
+}
+option
+{
+	font-size:30px;
+	size:30px;
+}
+.messege
+{
+	font-size:60px;
+	color:#FFFF66;
+}
+a:hover {
+  color:#FF0000 ;
+  background-color: #def ;
+}
